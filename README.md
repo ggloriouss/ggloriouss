@@ -10,11 +10,11 @@
 
 ###
 
-<h5 align="center">°❀⋆.ೃ࿔*:･ Programming Language & Runtime Environments ‧₊˚❀༉‧₊˚.</h5>
+<h5 align="left">°❀⋆.ೃ࿔*:･ Programming Language & Runtime Environments ‧₊˚❀༉‧₊˚.</h5>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -42,11 +42,11 @@
 
 ###
 
-<h5 align="center">°❀⋆.ೃ࿔*:･ Libraries & Framework ‧₊˚❀༉‧₊˚.</h5>
+<h5 align="left">°❀⋆.ೃ࿔*:･ Libraries & Framework ‧₊˚❀༉‧₊˚.</h5>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
@@ -72,11 +72,11 @@
 
 ###
 
-<h5 align="center">°❀⋆.ೃ࿔*:･ Database Management System ‧₊˚❀༉‧₊˚.</h5>
+<h5 align="left">°❀⋆.ೃ࿔*:･ Database Management System ‧₊˚❀༉‧₊˚.</h5>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
@@ -92,11 +92,11 @@
 
 ###
 
-<h5 align="center">°❀⋆.ೃ࿔*:･ Version Controll, Collaboration Platform and ETC. Tools      ‧₊˚❀༉‧₊˚.</h5>
+<h5 align="left">°❀⋆.ೃ࿔*:･ Version Controll, Collaboration Platform and ETC. Tools      ‧₊˚❀༉‧₊˚.</h5>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
@@ -120,17 +120,17 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ggloriouss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h5 align="center">°❀⋆.ೃ࿔*:･ My contact for work ‧₊˚❀༉‧₊˚.</h5>
+<h5 align="left">°❀⋆.ೃ࿔*:･ My contact for work ‧₊˚❀༉‧₊˚.</h5>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/ggloriouss/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -150,6 +150,6 @@
 
 ###
 
-<p align="center">°ʚ(*´꒳`*)ɞ°　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. (๑ᵔ⤙ᵔ๑)<br>　　　.   　　˚　✭　 　　*　　 　　✦ Thank you for visiting my profile!　　.　　.　　　✦　˚ 　　　　 ˚　.˚♡‧₊˚　　૮ ˶ᵔ ᵕ ᵔ˶ ა　　✭　.　　. 　 ˚　.　　⋆｡𖦹°⭒˚｡⋆ 　.　　. .⊹˖ᯓ★. ݁₊  　　 ꒰ᐢ. .ᐢ꒱₊˚⊹ ✦</p>
+<p align="left">°ʚ(*´꒳`*)ɞ°　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. (๑ᵔ⤙ᵔ๑)<br>　　　.   　　˚　✭　 　　*　　 　　✦ Thank you for visiting my profile!　　.　　.　　　✦　˚ 　　　　 ˚　.˚♡‧₊˚　　૮ ˶ᵔ ᵕ ᵔ˶ ა　　✭　.　　. 　 ˚　.　　⋆｡𖦹°⭒˚｡⋆ 　.　　. .⊹˖ᯓ★. ݁₊  　　 ꒰ᐢ. .ᐢ꒱₊˚⊹ ✦</p>
 
 ###
