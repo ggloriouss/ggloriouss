@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">°❀⋆.ೃ࿔*:･ Programming Language & Runtime Environments ‧₊˚❀༉‧₊˚.</h5>
+<h5 align="left">Programming Language & Runtime Environments ‧₊˚❀༉‧₊˚.</h5>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<h5 align="left">°❀⋆.ೃ࿔*:･ Libraries & Framework ‧₊˚❀༉‧₊˚.</h5>
+<h5 align="left">Libraries & Framework ‧₊˚❀༉‧₊˚.</h5>
 
 ###
 
@@ -72,7 +72,7 @@
 
 ###
 
-<h5 align="left">°❀⋆.ೃ࿔*:･ Database Management System ‧₊˚❀༉‧₊˚.</h5>
+<h5 align="left">Database Management System ‧₊˚❀༉‧₊˚.</h5>
 
 ###
 
@@ -92,7 +92,7 @@
 
 ###
 
-<h5 align="left">°❀⋆.ೃ࿔*:･ Version Controll, Collaboration Platform and ETC. Tools      ‧₊˚❀༉‧₊˚.</h5>
+<h5 align="left">Version Controll, Collaboration Platform and ETC. Tools      ‧₊˚❀༉‧₊˚.</h5>
 
 ###
 
@@ -126,7 +126,7 @@
 
 ###
 
-<h5 align="left">°❀⋆.ೃ࿔*:･ My contact for work ‧₊˚❀༉‧₊˚.</h5>
+<h5 align="left">My contact for work ‧₊˚❀༉‧₊˚.</h5>
 
 ###
 
@@ -150,6 +150,6 @@
 
 ###
 
-<p align="left">°ʚ(*´꒳`*)ɞ°　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. (๑ᵔ⤙ᵔ๑)<br>　　　.   　　˚　✭　 　　*　　 　　✦ Thank you for visiting my profile!　　.　　.　　　✦　˚ 　　　　 ˚　.˚♡‧₊˚　　૮ ˶ᵔ ᵕ ᵔ˶ ა　　✭　.　　. 　 ˚　.　　⋆｡𖦹°⭒˚｡⋆ 　.　　. .⊹˖ᯓ★. ݁₊  　　 ꒰ᐢ. .ᐢ꒱₊˚⊹ ✦</p>
+<h6 align="left">°ʚ(*´꒳`*)ɞ°　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. (๑ᵔ⤙ᵔ๑)<br>　　　.   　　˚　✭　 　　*　　 　　✦ 　✦　　　.　　. 　 ˚　.　Thank you for visiting my profile!　　.　　.　　　✦　˚ 　　　　 ˚　.˚♡‧₊˚　　૮ ˶ᵔ ᵕ ᵔ˶ ა　　✭　.　　. 　 ˚　.　　⋆｡𖦹°⭒˚｡⋆ 　.　　. .⊹˖ᯓ★. ݁₊  　　 ꒰ᐢ. .ᐢ꒱₊˚⊹ 　✭　　　.　　. 　 ˚　.　✦.　　. 　 ˚　.　　⋆｡𖦹</h6>
 
 ###
