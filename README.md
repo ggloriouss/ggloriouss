@@ -112,8 +112,8 @@
   <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
+  <!-- <img width="12" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  /> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
