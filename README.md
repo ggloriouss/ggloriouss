@@ -113,7 +113,7 @@
 ###
 
 <div align="left">
-  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Fgithub%2F66788&ved=0CBYQjRxqGAoTCMC4zabIjZIDFQAAAAAdAAAAABCdCQ&opi=89978449" height="40" alt="github logo"  />
+  <img src="https://wpguru.co.uk/wp-content/uploads/2021/12/GitHub-Icon.png" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
   <img width="12" />
