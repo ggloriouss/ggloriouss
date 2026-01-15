@@ -82,8 +82,6 @@
   <img src="https://underscorefunk.com/wp-content/uploads/2023/01/Logo__Leptos__brand-scaled.jpg" height="40" alt="leptos logo"  />
   <img width="12" />
   <img src="https://news-cdn.softpedia.com/images/news2/Microsoft-Axum-Updated-for-Visual-Studio-2010-2.png" height="40" alt="axum logo"  />
-  <img width="12" />
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/vue-9-logo-png-transparent.png" height="40" alt="vue logo"  />
 </div>
 
 ###
