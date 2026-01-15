@@ -29,8 +29,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://colab.research.google.com/img/colab_favicon_256px.png" height="40" alt="colab logo"  />
-  <img width="12" />
   <img src="https://th.bing.com/th/id/R.e64e8739f5d45b6f1f1beb9da9aa633c?rik=ZVUui%2bJblmoPfw&pid=ImgRaw&r=0" height="40" alt="roboflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
@@ -86,8 +84,6 @@
   <img src="https://news-cdn.softpedia.com/images/news2/Microsoft-Axum-Updated-for-Visual-Studio-2010-2.png" height="40" alt="axum logo"  />
   <img width="12" />
   <img src="https://cdn.freebiesupply.com/logos/large/2x/vue-9-logo-png-transparent.png" height="40" alt="vue logo"  />
-  <img width="12" />
-  <img src="https://vite.dev/logo.svg" height="40" alt="vite logo"  />
 </div>
 
 ###
@@ -140,12 +136,6 @@
   <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/11/power-bi-logo-freelogovectors.net_.png" height="40" alt="powerbi logo"  />
   <img width="12" />
   <img src="https://seekvectors.com/files/download/Microsoft%20Excel%20New-01.png" height="40" alt="excel logo"  />
-  <img width="12" />
-  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.computerhope.com%2Fjargon%2Fm%2Fmicrosoft-word.htm&ved=0CBYQjRxqFwoTCJCA-_vFjZIDFQAAAAAdAAAAABAI&opi=89978449" height="40" alt="word logo"  />
-  <img width="12" />
-  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fgoogle-sheets.th.uptodown.com%2Fandroid&ved=0CBYQjRxqFwoTCPj28JzGjZIDFQAAAAAdAAAAABA7&opi=89978449" height="40" alt="sheets logo"  />
-  <img width="12" />
-  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.computerhope.com%2Fjargon%2Fg%2Fgoogle-docs.htm&ved=0CBYQjRxqFwoTCOjVpbDGjZIDFQAAAAAdAAAAABAI&opi=89978449" height="40" alt="docs logo"  />
 </div>
 ###
 
