@@ -10,43 +10,45 @@
 
 ###
 
-<h5 align="left">Programming Language & Runtime Environments ‧₊˚❀༉‧₊˚.</h5>
+<h5 align="left">Programming Language & Runtime Envirionments (˶ᵔ ᵕ ᵔ˶) ‹𝟹</h5>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
+  <img src="https://prev.rust-lang.org/logos/rust-logo-128x128.png" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://colab.research.google.com/img/colab_favicon_256px.png" height="40" alt="colab logo"  />
+  <img width="12" />
+  <img src="https://th.bing.com/th/id/R.e64e8739f5d45b6f1f1beb9da9aa633c?rik=ZVUui%2bJblmoPfw&pid=ImgRaw&r=0" height="40" alt="roboflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 </div>
 
 ###
 
-<h5 align="left">Libraries & Framework ‧₊˚❀༉‧₊˚.</h5>
+<h5 align="left">Libraries & Frameworks ≽(•⩊ •マ≼</h5>
 
 ###
 
 <div align="left">
+  <img src="https://av-eks-lekhak.s3.amazonaws.com/media/__sized__/article_images/image_PNXLlqi-thumbnail_webp-600x300.webp" height="40" alt="scikit logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
@@ -59,83 +61,92 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://tse4.mm.bing.net/th/id/OIP.gMFRoR9DzAZl105RI-OGUwHaHa?w=1552&h=1552&rs=1&pid=ImgDetMain&o=7&rm=3" height="40" alt="keras logo"  />
+  <img width="12" />
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" height="40" alt="hugging logo"  />
+  <img width="12" />
+  <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/07/langchain3.png" height="40" alt="langchain logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/Ikomia-hub/train_yolo_v8_classification/main/icons/icon.png" height="40" alt="yolo logo"  />
+  <img width="12" />
+  <img src="https://pystrike.com/wp-content/uploads/2024/06/matplotlib.png" height="40" alt="matplotlib logo"  />
+  <img width="12" />
+  <img src="https://vectorseek.com/wp-content/uploads/2023/12/seaborn-Logo-Vector.svg-.png" height="40" alt="seaborn logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="40" alt="vuetify logo"  />
+  <img src="https://opengraph.githubassets.com/392d87c6ba074093ca2c4012acaf7667481ee79f2a088837c1d828b5170c733c/microsoft/SPTAG" height="40" alt="sptag logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img src="https://underscorefunk.com/wp-content/uploads/2023/01/Logo__Leptos__brand-scaled.jpg" height="40" alt="leptos logo"  />
+  <img width="12" />
+  <img src="https://news-cdn.softpedia.com/images/news2/Microsoft-Axum-Updated-for-Visual-Studio-2010-2.png" height="40" alt="axum logo"  />
+  <img width="12" />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/vue-9-logo-png-transparent.png" height="40" alt="vue logo"  />
+  <img width="12" />
+  <img src="https://vite.dev/logo.svg" height="40" alt="vite logo"  />
 </div>
 
 ###
 
-<h5 align="left">Database Management System ‧₊˚❀༉‧₊˚.</h5>
+<h5 align="left">Databases Management Systems ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧</h5>
 
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo"  />
+  <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3257055/file-type-sqlite-icon-md.png" height="40" alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img src="https://companieslogo.com/img/orig/supabase-554aca1c.png?t=1720244494" height="40" alt="supabase logo"  />
 </div>
 
 ###
 
-<h5 align="left">Version Controll, Collaboration Platform and ETC. Tools      ‧₊˚❀༉‧₊˚.</h5>
+###
+
+<h5 align="left">Version Control, Collaboration Platforms and etc. ( ,,⩌'︿'⩌,,) (｡•̀ ⤙ •́ ｡ꐦ) !!!</h5>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <!-- <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  /> -->
+  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/11/power-bi-logo-freelogovectors.net_.png" height="40" alt="powerbi logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://seekvectors.com/files/download/Microsoft%20Excel%20New-01.png" height="40" alt="excel logo"  />
+  <img width="12" />
+  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.computerhope.com%2Fjargon%2Fm%2Fmicrosoft-word.htm&ved=0CBYQjRxqFwoTCJCA-_vFjZIDFQAAAAAdAAAAABAI&opi=89978449" height="40" alt="word logo"  />
+  <img width="12" />
+  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fgoogle-sheets.th.uptodown.com%2Fandroid&ved=0CBYQjRxqFwoTCPj28JzGjZIDFQAAAAAdAAAAABA7&opi=89978449" height="40" alt="sheets logo"  />
+  <img width="12" />
+  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.computerhope.com%2Fjargon%2Fg%2Fgoogle-docs.htm&ved=0CBYQjRxqFwoTCOjVpbDGjZIDFQAAAAAdAAAAABAI&opi=89978449" height="40" alt="docs logo"  />
 </div>
-
-###
-
-<h5 align="left">My contact for work ‧₊˚❀༉‧₊˚.</h5>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/ggloriouss/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discordapp.com/users/__glorious" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://gitlab.com/Nipaporn.P" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="52" height="40" alt="gitlab logo"  />
-  </a>
-</div>
-
 ###
 
 <div align="center">
