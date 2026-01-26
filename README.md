@@ -77,8 +77,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
-  <img src="https://opengraph.githubassets.com/392d87c6ba074093ca2c4012acaf7667481ee79f2a088837c1d828b5170c733c/microsoft/SPTAG" height="40" alt="sptag logo"  />
-  <img width="12" />
   <img src="https://underscorefunk.com/wp-content/uploads/2023/01/Logo__Leptos__brand-scaled.jpg" height="40" alt="leptos logo"  />
   <img width="12" />
   <img src="https://news-cdn.softpedia.com/images/news2/Microsoft-Axum-Updated-for-Visual-Studio-2010-2.png" height="40" alt="axum logo"  />
