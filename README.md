@@ -63,8 +63,6 @@
   <img width="12" />
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" height="40" alt="hugging logo"  />
   <img width="12" />
-  <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/07/langchain3.png" height="40" alt="langchain logo"  />
-  <img width="12" />
   <img src="https://raw.githubusercontent.com/Ikomia-hub/train_yolo_v8_classification/main/icons/icon.png" height="40" alt="yolo logo"  />
   <img width="12" />
   <img src="https://pystrike.com/wp-content/uploads/2024/06/matplotlib.png" height="40" alt="matplotlib logo"  />
