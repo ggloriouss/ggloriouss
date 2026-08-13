@@ -14,8 +14,6 @@
 
 <h5 align="left">Programming Language (˶ᵔ ᵕ ᵔ˶) ‹𝟹</h5>
 
-###
-
 <img src="./assets/stacks-lang.svg" alt="Programming languages" />
 
 ###
