@@ -1,6 +1,6 @@
 <h2 align="left">Welcome to my GitHub Profile!</h2>
 <div align="center">
-  <img height="500" width="850" src="./shizue.gif" alt="shizue" width="300" />
+  <img height="4500" width="650" src="./shizue.gif" alt="shizue" width="300" />
 </div>
 
 ###
