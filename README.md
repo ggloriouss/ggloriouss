@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="./shizue.gif" alt="shizue" width="300" />
+  <img height="200" src="https://media4.giphy.com/media/YvgFdAVOJDlkQoRTfJ/giphy.gif?cid=790b7611930d43b2d47cd21f021b31992787121148760b84&rid=giphy.gif&ct=s"  />
 </div>
 
 ###
@@ -41,7 +41,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media4.giphy.com/media/YvgFdAVOJDlkQoRTfJ/giphy.gif?cid=790b7611930d43b2d47cd21f021b31992787121148760b84&rid=giphy.gif&ct=s"  />
+  <img src="./shizue.gif" alt="shizue" width="300" />
 </div>
 
 ###
