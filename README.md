@@ -46,6 +46,10 @@
 
 ###
 
+<img src="https://ghstats.dev/api/langs?username=ggloriouss&theme=nord&hide_border=true&max_langs=12&layout=horizontal_list" alt="Top Languages" />
+
+###
+
 <img src="https://raw.githubusercontent.com/ggloriouss/ggloriouss/output/snake.svg" alt="Snake animation" />
 
 
