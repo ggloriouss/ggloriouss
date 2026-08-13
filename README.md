@@ -28,6 +28,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" height="40" alt="shell script logo"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpzZ7hJ8TUMEBmGxmkUP1SnMbRj1mBcGmkXJp0AImjoYBtSbCvOfFyWZIG&s=10" height="40" alt="shell script logo"  />
 </div>
 
 ###
