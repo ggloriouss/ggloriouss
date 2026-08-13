@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/8d/cd/bf/8dcdbfaa1ae80f7534cef3d7ede548af.gif"  />
+  <img height="200" src="./shizue.gif" alt="shizue" width="300" />
 </div>
 
 ###
@@ -41,7 +41,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="./shizue.gif" alt="shizue" width="300" />
+  <img height="200" src="https://i.pinimg.com/originals/8d/cd/bf/8dcdbfaa1ae80f7534cef3d7ede548af.gif"  />
 </div>
 
 ###
