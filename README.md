@@ -19,7 +19,6 @@
   <img width="12" />
   <img src="https://prev.rust-lang.org/logos/rust-logo-128x128.png" height="40" alt="rust logo"  />
   <img width="12" />
-  <img width="12" />
   <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" height="40" alt="shell script logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
