@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">Tech Stacks</h2>
+<h2 align="left">My Stacks</h2>
 
 ###
 
-<h5 align="left">Programming Language & Runtime Envirionments (˶ᵔ ᵕ ᵔ˶) ‹𝟹</h5>
+<h5 align="left">Programming Language (˶ᵔ ᵕ ᵔ˶) ‹𝟹</h5>
 
 ###
 
@@ -28,14 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://th.bing.com/th/id/R.e64e8739f5d45b6f1f1beb9da9aa633c?rik=ZVUui%2bJblmoPfw&pid=ImgRaw&r=0" height="40" alt="roboflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
 ###
